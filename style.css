@@ -1,0 +1,10 @@
+#digital-clock{width: 900px;margin: 150px auto 0;}
+.digital-number{width: 99px;float: left;color: #000;overflow: hidden;margin: 10px;}
+.border-row{width: 100%;display: table;line-height: 15px;}
+.letter-spacing{letter-spacing: 5px;}
+.border-col{float: left;width: 50%;}
+.left{text-align: left;}
+.right{text-align: right;}
+.negative-top{margin-top: -15px;}
+.hide{text-indent: 100%;}
+.separator{float: left;padding: 10px;line-height: 75px;}
